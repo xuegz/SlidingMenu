@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\Desktop\SlidingMenu\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_80956142f3402179ca97a48a3d0fbcb53a3fda97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SlidingMenu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="86023c9a3c2f2bc78493e018fb9d3423e6d9077b">
+        <dex dex="C:\Users\Administrator\Desktop\SlidingMenu\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_69832608301bf86fa0dc69fe5ebf2e089b47631b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\SlidingMenu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bcee24476ad34b65c98c6a28b2f303702956be95">
+        <dex dex="C:\Users\Administrator\Desktop\SlidingMenu\app\build\intermediates\pre-dexed\debug\instant-run_48df9c19eaaae918fd0217e198e5deaef1e8b7f0.jar" />
+    </item>
+
+</items>

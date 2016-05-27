@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_pics.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_pics.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_divider.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\top_bar_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_news.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_news.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ties.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_ties.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_local.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_local.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\menu_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_bg.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\top_bar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_ugc.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_ugc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_read.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_read.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_vote.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_vote.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_back.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_focus.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\tab_focus.png"
+    }
+]
